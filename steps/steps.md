@@ -12,4 +12,4 @@ git push -u origin master
 git branch dev 
 git checkout dev
 git add .
-git commit -m "first commit from dev branch
+git commit -m "edit on steps from dev"
