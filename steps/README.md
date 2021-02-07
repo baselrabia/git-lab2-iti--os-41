@@ -1,6 +1,6 @@
 # steps for - git-lab2-iti--os-41
 
-
+## 1
 - echo "# git-lab2-iti--os-41" >> README.md
 - git init
 - git add README.md
@@ -10,6 +10,7 @@
 - git push -u origin master
 
 
+## 2
 
 
 - git branch dev 
