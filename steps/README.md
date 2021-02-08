@@ -1,5 +1,7 @@
 # steps for - git-lab2-iti--os-41
 
+Git practice repo : lab2 iti os 41
+Created By : [Basel Rabia](https://github.com/baselrabia)
 ## 1
 - echo "# git-lab2-iti--os-41" >> README.md
 - git init
