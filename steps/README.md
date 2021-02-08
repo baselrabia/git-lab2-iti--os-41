@@ -18,3 +18,11 @@
 - git add .
 - git commit -m "edit on steps from dev"
 - git push origin dev
+
+
+## 3
+- git add .
+- git commit -m "edit on steps from dev"
+- git push origin dev
+- git checkout master 
+- git merge dev 
