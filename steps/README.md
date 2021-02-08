@@ -45,6 +45,7 @@ Created By : [Basel Rabia](https://github.com/baselrabia)
 ### ADD TAG V1.4
 
 - git tag -a v1.4 -m "version 1.4.0"
+- git push --tag
 
 ### SHOW TAGS LOCALLY 
 
